@@ -1,2 +1,5 @@
 # hello-world
-First html project on github
+
+Hi!
+
+I am logan and i am a student, cool
